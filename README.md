@@ -8,4 +8,4 @@ This projects builds a network analysis platform by using ```NetworkX``` and ```
 An example of the platform is shown in the notebook by analyzing the social network of actors who have acted in blockbuster movies (with 100000 reviews) in [a movie database website](https://www.douban.com/).
 
 ![](images/actors-US-China.png)
->Figure 1. Chinese (yelllow) and the U.S. (purple) actors network
+>Chinese (yelllow) and the U.S. (purple) actors network
