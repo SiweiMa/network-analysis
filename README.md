@@ -1,4 +1,4 @@
-# Social Network Platform
+# Social Network Analysis Platform
 *The repository is the a project in course MSDS 626.*
 #### by Siwei Ma
 
